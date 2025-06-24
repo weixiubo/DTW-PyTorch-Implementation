@@ -22,7 +22,7 @@ This project provides efficient and flexible implementations of Dynamic Time War
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/weixiubo/DTW-PyTorch-Implementation.git
    ```
 2. Install dependencies:
    ```bash
